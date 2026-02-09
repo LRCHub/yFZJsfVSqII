@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "空の箱 (井芹仁菜、河原木桃香)",
+  "base_artist": "トゲナシトゲアリ",
+  "createdAt": "2026-02-09T13:49:38.359574Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空の箱 (井芹仁菜、河原木桃香)",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": true,
+      "path": "select/01_空の箱_(井芹仁菜、河原木桃香)_トゲナシトゲアリ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空の箱 (井芹仁菜、河原木桃香(Live at 川崎駅東口駅前広場 edit))",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/pl_01_空の箱_(井芹仁菜、河原木桃香(Live_at_川崎駅東口駅前広場_edit))_トゲナシトゲアリ.txt"
+    }
+  ]
+}
